@@ -12,8 +12,7 @@ Any other enhancements/customizations are strongly encouraged! This is your oppo
 
 1. Create a public repository (preferably on GitHub)
 2. Build your streamlit application
-3. Create a `requirements.txt` file so that we can clone your repository and install the necessary packages to run your code.
-4. Push everything to your public repository and send us the link
+3. Push everything to your public repository and send us the link
 
 Please __do not publish your application to Streamlit Community Cloud__. We will clone your repository and run it locally on our side. 
 
