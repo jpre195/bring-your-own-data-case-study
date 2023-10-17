@@ -15,5 +15,3 @@ Any other enhancements/customizations are strongly encouraged! This is your oppo
 3. Push everything to your public repository and send us the link
 
 Please __do not publish your application to Streamlit Community Cloud__. We will clone your repository and run it locally on our side. 
-
-Please reach out if you have any questions!
